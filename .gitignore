@@ -1,2 +1,4 @@
 tmp/*  
 !.gitkeep
+settings/*
+!sample.bat
